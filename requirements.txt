@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+scikit-learn
+folium
+streamlit-folium
+transformers
+openrouteservice
+geopy
+requests
+numpy
+pandas
+python-dotenv
