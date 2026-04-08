@@ -34,19 +34,26 @@ The SCRI application helps customers, retailers, and logistics teams assess supp
 ---
 
 ## 📁 Project Structure
-SCRI_Capstone/
-├── 📂 Datasets/               # Raw and processed datasets
-├── 📂 Models/                 # Trained ML models (.h5 files)
-│   ├── customer_lstm_model.h5
-│   ├── retailer_mlp_model.h5
-│   └── logistics_mlp_model.h5
-├── 📂 Source Code/
-│   └── app.py                 # Main Streamlit application
-├── 📂 Poster and Presentation/
-├── .env                       # API keys (not tracked by git)
-├── .gitignore
-├── requirements.txt
-└── README.md
+
+📂 **Datasets/** — Raw and processed datasets
+
+📂 **Models/** — Trained ML models (.h5 files)
+- customer_lstm_model.h5
+- retailer_mlp_model.h5
+- logistics_mlp_model.h5
+
+📂 **Source Code/**
+- app.py — Main Streamlit application
+
+📂 **Poster and Presentation/**
+
+📄 .env — API keys (not tracked by git)
+
+📄 .gitignore
+
+📄 requirements.txt
+
+📄 README.md
 ---
 
 ## ⚙️ Setup & Installation
